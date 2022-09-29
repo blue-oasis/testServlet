@@ -1,6 +1,6 @@
 package ex02;
 
-import java.awt.List;
+import java.util.List;
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.Statement;
@@ -41,3 +41,5 @@ public class memberDAO {
 		return list;
 	}
 }
+
+
